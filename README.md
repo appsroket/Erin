@@ -27,6 +27,10 @@ Import **appsroket/Erin** from GitHub. Use the repository root and the **Other**
 - Original privacy policy, terms and full portfolio disclosure were preserved. The owner should review these existing policies for the new hosting arrangement.
 - Google Fonts is an external stylesheet with system fallbacks. All photography is stored locally.
 
+## Brand direction
+
+Forest green, warm ivory, and brass accents, paired with editorial serif typography and a custom architectural emblem. The emblem is shared across the wordmark, favicon, hero seal, and closing section. Responsive layouts include a cinematic hero, founder profile, lifestyle photography, property inquiry links, and investor education. The vector social-card artwork is supplied in `public/images/social-card.svg` for future marketing use.
+
 ## Editing
 
 `public/index.html` contains content. `public/styles.css` contains design and responsive rules. `public/app.js` handles the accessible mobile menu and copyright year. `public/images` contains original-site assets. The `build` script copies `public` into `dist`.
